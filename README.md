@@ -6,6 +6,10 @@ A simple, end-to-end example of Retrieval-Augmented Generation: connecting an LL
 private knowledge base so it can answer questions grounded in your own documents instead
 of relying on the model's general training data.
 
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/q5V15vbIutI/0.jpg)](https://youtu.be/q5V15vbIutI)
+
 ## The idea
 
 Imagine a company with hundreds of internal regulations — HR rules, benefits, leave

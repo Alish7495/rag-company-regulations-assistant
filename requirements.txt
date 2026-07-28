@@ -1,0 +1,10 @@
+chromadb
+langchain
+langchain-openai
+langchain-community
+langserve
+fastapi
+uvicorn
+langsmith
+openai
+tqdm
